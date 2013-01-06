@@ -35,3 +35,7 @@ nbproject
 .idea
 node_modules
 dist
+
+docs/assets/css/bootstrap.css
+
+less/css/responsive.css
